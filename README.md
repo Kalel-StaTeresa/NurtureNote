@@ -1,18 +1,18 @@
 # **NurtureNote**
-**Description**
+## **Description**
 NurtureNote is a console-based application that helps users track their fitness and health. The program uses Object-Oriented Programming (OOP) principles to ensure a modular and scalable codebase. It allows users to input their personal data, view fitness suggestions based on their BMI, and track their history over time. Check the OOP section for more details.
 
 This program contributes to SDG goal 3, "Good Health and Well-being." See the SDG Implementation section for more details.
 
 
-**SDG Implemention**
+## **SDG Implemention**
 NurtureNote supports SDG goal 3 by promoting healthy living and fitness awareness. It provides:
 
   - A personalized BMI tracker to help users monitor their health.
   - Fitness suggestions tailored to individual needs (underweight, normal weight, overweight).
   - A historical log of user data to encourage progress tracking over time.
   - 
-**OOP**
+## **OOP**
 **Inheritance**
 - The program uses inheritance to share properties and methods among classes.
 - Example: The SuggestionBase class is a parent class that is inherited by UnderweightSuggestion, NormalWeightSuggestion, and OverweightSuggestion. Each subclass provides specific suggestions tailored to BMI categories.
