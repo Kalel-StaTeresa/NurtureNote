@@ -28,3 +28,13 @@ NurtureNote supports SDG goal 3 by promoting healthy living and fitness awarenes
 **Encapsulation**
 - All member variables in classes such as User are private, ensuring controlled access through public getter and setter methods.
 - Encapsulation safeguards data integrity and ensures that only authorized methods can modify or access sensitive information.
+
+## **Installation**
+**Pre-Requisites**
+Java 21 JDK
+
+**Building**
+1. Clone this repository.
+2. Compile the program using the following command: javac Main.java
+**Running**
+Run the program using: java Main
