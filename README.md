@@ -36,5 +36,6 @@ Java 21 JDK
 **Building**
 1. Clone this repository.
 2. Compile the program using the following command: javac Main.java
+   
 **Running**
 Run the program using: java Main
