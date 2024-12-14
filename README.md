@@ -1,6 +1,11 @@
 ## **NurtureNote**
 A program that encourages daily mindfulness and self-care activities
 # **Description**
+NurtureNote is a console-based application that helps users track their fitness and health. The program uses Object-Oriented Programming (OOP) principles to ensure a modular and scalable codebase. It allows users to input their personal data, view fitness suggestions based on their BMI, and track their history over time. Check the OOP section for more details.
+
+This program contributes to SDG goal 3, "Good Health and Well-being." See the SDG Implementation section for more details.
+
+
 # **SDG Implemention**
 NurtureNote supports SDG goal 3 by promoting healthy living and fitness awareness. It provides:
 
