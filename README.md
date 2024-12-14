@@ -1,7 +1,7 @@
 ## **NurtureNote**
 A program that encourages daily mindfulness and self-care activities
 # **Description**
-#SDG Implemention
+# **SDG Implemention**
 NurtureNote supports SDG goal 3 by promoting healthy living and fitness awareness. It provides:
 
   - A personalized BMI tracker to help users monitor their health.
