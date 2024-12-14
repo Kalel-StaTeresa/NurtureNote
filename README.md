@@ -38,4 +38,4 @@ Java 21 JDK
 2. Compile the program using the following command: javac Main.java
    
 **Running**
-Run the program using: java Main
+  Run the program using: java Main
