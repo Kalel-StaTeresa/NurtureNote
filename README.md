@@ -11,7 +11,7 @@ NurtureNote supports SDG goal 3 by promoting healthy living and fitness awarenes
   - A personalized BMI tracker to help users monitor their health.
   - Fitness suggestions tailored to individual needs (underweight, normal weight, overweight).
   - A historical log of user data to encourage progress tracking over time.
-  - 
+    
 ## **OOP**
 **Inheritance**
 - The program uses inheritance to share properties and methods among classes.
